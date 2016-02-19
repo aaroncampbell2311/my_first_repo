@@ -1,1 +1,8 @@
 h2 {color: blue}
+p {color: purplegit reset}
+.purple {color: purple}
+
+body {
+	background-color: black;
+	color: white;
+}
